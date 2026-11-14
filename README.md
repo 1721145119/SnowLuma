@@ -18,7 +18,7 @@ OneBot v11 · WebUI · SDK · MCP
 
 多账号会话、消息与媒体、连接配置和实时日志，在一个运行时中管理。
 
-**[下载发行版](https://github.com/SnowLuma/SnowLuma/releases)** · **[快速开始](#快速开始)**<br>
+**[下载发行版](https://github.com/BYGLY/SnowLuma/releases)** · **[快速开始](#快速开始)**<br>
 [部署指南](https://snowluma.github.io/zh/docs/guide/deploy) · [动作参考](https://snowluma.github.io/zh/docs/api) · [问题反馈](https://github.com/SnowLuma/SnowLuma/issues)
 
 <sub>Windows x64 · Linux x64 / arm64</sub>
