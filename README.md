@@ -50,7 +50,7 @@ OneBot v11 · WebUI · SDK · MCP
 
 ## 快速开始
 
-1. 从 [Releases](https://github.com/SnowLuma/SnowLuma/releases) 下载对应平台的完整发行包并解压。Lite 版需 Node.js 24+。
+1. 从 [Releases](https://github.com/1721145119/SnowLuma/releases) 下载对应平台的完整发行包并解压。Lite 版需 Node.js 24+。
 2. Windows 运行 `launcher.bat`；Linux 执行：
 
    ```bash
